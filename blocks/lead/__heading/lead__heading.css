@@ -1,0 +1,15 @@
+.lead__heading {
+    color: #fff;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%; 
+text-rendering: optimizeLegibility; 
+}

@@ -1,0 +1,14 @@
+.cover__subtitle {
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #fff;
+max-width: 360px;
+margin: 32px 0 0 0;
+-webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%; 
+text-rendering: optimizeLegibility; 
+}

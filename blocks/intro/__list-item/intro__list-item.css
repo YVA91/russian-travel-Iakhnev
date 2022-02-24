@@ -1,0 +1,11 @@
+.intro__list-item {
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFF;
+-webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%; 
+text-rendering: optimizeLegibility; 
+}

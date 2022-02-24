@@ -1,0 +1,15 @@
+.place__title {
+  font-size: 72px;
+  line-height: 76px;
+  text-align: left;
+  color: #fff;
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0;
+  -webkit-font-smoothing: antialiased; 
+-moz-osx-font-smoothing: grayscale; 
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%; 
+text-rendering: optimizeLegibility; 
+}
