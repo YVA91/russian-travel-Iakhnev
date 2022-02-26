@@ -1,6 +1,4 @@
 .lead__text-caption {
-  font-family: "Inter";
-  font-size: "Regular";
   display: block;
   margin: 8px 0 0 0;
   font-weight: normal;
@@ -9,12 +7,12 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #fff;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%; 
-  text-rendering: optimizeLegibility; 
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1023px) {

@@ -7,11 +7,11 @@
   margin: 0;
   padding: 0;
   transition: opacity .5s;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%; 
+  -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   margin-bottom: 6px; 
 }

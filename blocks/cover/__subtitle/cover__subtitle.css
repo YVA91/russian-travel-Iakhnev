@@ -6,12 +6,12 @@
   color: #fff;
   max-width: 360px;
   margin: 32px auto 0;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%; 
-  text-rendering: optimizeLegibility; 
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 767px) {

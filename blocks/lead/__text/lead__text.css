@@ -1,6 +1,4 @@
 .lead__text {
-  font-family: "Inter";
-  font-size: "Regular";
   color: #fff;
   max-width: 640px;
   margin: 32px auto 64px;
@@ -9,12 +7,12 @@
   font-style: normal;
   font-size: 30px;
   line-height: 36px;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%; 
-  text-rendering: optimizeLegibility; 
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1279px) {
@@ -37,6 +35,5 @@
     margin: 16px auto 40px;
     font-size: 16px;
     line-height: 20px;
-    margin: 32px 16px 56px;
   }
 }

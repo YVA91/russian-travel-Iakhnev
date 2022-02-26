@@ -1,6 +1,4 @@
 .lead__heading {
-  font-family: "Inter";
-  font-size: "Black";
   color: #fff;
   font-weight: 900;
   font-size: 96px;
@@ -8,12 +6,12 @@
   max-width: 720px;
   margin: 0 auto;
   text-align: center;
-  -webkit-font-smoothing: antialiased; 
-  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%; 
-  text-rendering: optimizeLegibility; 
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 767px) {
