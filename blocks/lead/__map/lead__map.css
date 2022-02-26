@@ -1,6 +1,4 @@
 .lead__map {
-    max-width: 984px;
-    height: 615px;
-    margin: 64px auto 0;
-    background-size: cover;
+  max-width: 100%;
+  margin: 0 auto;
 }

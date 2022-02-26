@@ -1,0 +1,13 @@
+.cover__img {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  grid-column: 1/1;
+  grid-row: 1/1;
+  opacity: .8;
+  transition: .5s;
+}
+
+.cover__img:hover {
+  opacity: .3;
+}

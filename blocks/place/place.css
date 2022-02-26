@@ -1,9 +1,32 @@
 .place {
   display: grid;
-  /*grid-template-columns: 460px 484px;*/
-  /*grid-template-columns: 
-  grid-template-rows: */
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
   grid-gap: 48px 40px;
   margin-bottom: 80px;
+}
+
+.place:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .place {
+    grid-gap: 48px 32px;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place {
+    grid-gap: 48px 28px;
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .place {
+    display: block;
+    margin: 0 0 50px 0;
+    max-width: 100%;
+  }
 }

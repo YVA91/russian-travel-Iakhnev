@@ -1,14 +1,16 @@
 .place__url {
-font-size: 12px;
-line-height: 12px;
-text-align: left;
-color: #aaa;
-letter-spacing: 2px;
-margin: 0 0 12px 0;
--webkit-font-smoothing: antialiased; 
--moz-osx-font-smoothing: grayscale; 
--webkit-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--moz-text-size-adjust: 100%; 
-text-rendering: optimizeLegibility; 
+  font-family: "Inter";
+  font-style: "Regular";
+  font-size: 12px;
+  line-height: 12px;
+  text-align: left;
+  color: #aaa;
+  letter-spacing: 2px;
+  margin: 0 0 12px 0;
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; 
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%; 
+  text-rendering: optimizeLegibility; 
 }

@@ -1,18 +1,26 @@
 .place__link {
-font-size: 18px;
-line-height: 22px;
-text-align: Left;
-color: #fff;
-/*text-decoration: none;*/
-transition: opacity .5s;
--webkit-font-smoothing: antialiased; 
--moz-osx-font-smoothing: grayscale; 
--webkit-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--moz-text-size-adjust: 100%; 
-text-rendering: optimizeLegibility; 
+  display: block;
+  font-family: "Inter";
+  font-style: "Regular";
+  font-size: 18px;
+  line-height: 22px;
+  text-align: Left;
+  color: #fff;
+  transition: opacity .5s;
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; 
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%; 
+  text-rendering: optimizeLegibility; 
 }
 
 .place__link:hover {
-    opacity: .8;
+  opacity: .8;
+}
+
+@media screen and (max-width: 767px) {
+  .place__link {
+    margin: 0 0 32px 0;
+  }
 }
