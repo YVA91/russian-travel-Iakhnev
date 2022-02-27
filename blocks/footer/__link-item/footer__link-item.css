@@ -6,11 +6,12 @@
   margin: 0 0 24px 0;
 }
 
- @media screen and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .footer__link-item {
     margin: 0 0 32px 0;
   }
+  
   .footer__link-item:last-child {
-  margin: 0;
-}
+    margin: 0;
+  }
 }
