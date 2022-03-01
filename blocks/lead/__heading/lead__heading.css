@@ -29,6 +29,6 @@
   .lead__heading {
     font-size: 40px;
     line-height: 44px;
-    max-width: calc(100% - 48px);
+    max-width: calc(100% - 24px);
   }
 }
