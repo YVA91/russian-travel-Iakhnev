@@ -1,7 +1,7 @@
 # Учебный проект "Путешествие по России"
 Проект выполнен на основании макета: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
 
-Ссылка на проект: https://github.com/YVA91/russian-travel-Iakhnev
+Ссылка на проект: https://yva91.github.io/russian-travel-Iakhnev/index.html
 
 Цель данного проекта: получить практичесикй опыт работы с адаптивной верской сайта. Улучшить навыки верстки
 
